@@ -11,7 +11,7 @@ DACH &amp; AT Tournament Files and Documentation
 4. This screen should appear. Now go into qualifiers tab.
 ![lol](https://i.imgur.com/01wVFOo.png)
 
-5. Now choose "DACH1 Qualifiers"
+5. Now choose "DACH1 Qualifiers"                     
 ![lol](https://i.imgur.com/GO1onFN.png)
 
 6. If you see the Qualifier Maps appearing like shown here, you are ready to play them!
