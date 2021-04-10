@@ -2,7 +2,7 @@
 DACH &amp; AT Tournament Files and Documentation
 
 ## Qualifiers
-1. Download the TournamentAssistant Plugin provided **[here](https://github.com/riasuh/HitbloqTournaments/releases/tag/1.1)**
+1. Download the TournamentAssistant Plugin provided **[here](https://github.com/riasuh/HitbloqTournaments/releases/tag/1.2)**
 
 2. Put the .dll file into your **Plugin folder**
 
