@@ -10,15 +10,15 @@ DACH &amp; AT Tournament Files and Documentation
 
 4. This screen should appear. Now go into qualifiers tab.
 
-![lol](https://i.imgur.com/01wVFOo.png)
+![lol](https://i.imgur.com/Eos04bP.png)
 
-5. Now choose "DACH1 Qualifiers" 
+5. Now choose "WC AT Qualifiers/Torpedo" 
                     
-![lol](https://i.imgur.com/GO1onFN.png)
+![lol](https://i.imgur.com/V4WtJdS.png)
 
 6. If you see the Qualifier Maps appearing like shown here, you are ready to play them!
 
-![lol](https://i.imgur.com/b8YSdDh.png)
+![lol](https://i.imgur.com/neVNe8e.png)
 
 7. Play all the Maps, give it your best!
 
