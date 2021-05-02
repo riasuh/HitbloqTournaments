@@ -1,7 +1,7 @@
 # HitbloqTournaments
 DACH &amp; AT Tournament Files and Documentation
 
-## Qualifiers
+## Qualifiers for WC AT Teampick
 1. Download the TournamentAssistant Plugin provided **[here](https://github.com/riasuh/HitbloqTournaments/releases/latest)**
 
 2. Put the .dll file into your **Plugin folder**
