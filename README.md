@@ -14,11 +14,11 @@ DACH &amp; AT Tournament Files and Documentation
 
 5. Now choose "AT1 Qualifiers" 
                     
-![lol](https://i.imgur.com/V4WtJdS.png)
+![lol](https://i.imgur.com/m1I7JZT.png)
 
 6. If you see the Qualifier Maps appearing like shown here, you are ready to play them!
 
-![lol](https://i.imgur.com/neVNe8e.png)
+![lol](https://i.imgur.com/m4mWCNW.png)
 
 7. Play all the Maps, give it your best!
 
