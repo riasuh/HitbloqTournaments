@@ -16,7 +16,7 @@ DACH &amp; AT Tournament Files and Documentation
                     
 ![lol](https://i.imgur.com/m1I7JZT.png)
 
-6. If you see the Qualifier Maps appearing like shown here, you are ready to play them!
+6. If you see something like shown here, you are ready to play them!
 
 ![lol](https://i.imgur.com/m4mWCNW.png)
 
